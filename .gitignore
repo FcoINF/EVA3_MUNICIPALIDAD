@@ -1,0 +1,5 @@
+*
+../../*
+!.gitignore
+!Municipalidad_EVA1.ipynb
+!requirements.txt
