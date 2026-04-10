@@ -14,4 +14,8 @@ menos la de chat general que es una conversación directa con la IA, y con una o
 
 Las opciones se eligen mediante un numero del 1 al 6 que elija el usuario, dependiendo de la opción,
 se informa a la IA el tema sobre lo que el usuario esta preguntando, si la opción ingresada no es un
-numero entero o es una opción que no existe, avisara al usuario que es una opción inválida 
+numero entero o es una opción que no existe, avisara al usuario que es una opción inválida .
+
+La problematica a solucionar en base a este proyecto es facilitar a los usuarios realizar consultas o tener un acesso
+directo a lo que buscan apenas entrar a la página de la municipalidad, en base a esto podemos optimizar muchos procesos gracias al
+ChatBOT.
